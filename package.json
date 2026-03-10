@@ -1,0 +1,20 @@
+{
+  "name": "rich-editor",
+  "version": "1.0.0",
+  "description": "A lightweight WYSIWYG rich text editor",
+  "main": "dist/rich-editor.umd.js",
+  "scripts": {
+    "build": "node esbuild.config.mjs",
+    "dev": "node esbuild.config.mjs --watch"
+  },
+  "devDependencies": {
+    "esbuild": "^0.20.0",
+    "typescript": "^5.3.0"
+  },
+  "license": "MIT",
+  "keywords": ["editor", "wysiwyg", "rich-text", "contenteditable"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/acaronlex/rich-editor"
+  }
+}
