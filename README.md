@@ -5,13 +5,13 @@ A lightweight WYSIWYG rich text editor with zero dependencies.
 ## Install
 
 ```bash
-npm install rich-editor
+npm install @acaronlex/rich-editor
 ```
 
 Or use via CDN:
 
 ```html
-<script src="https://unpkg.com/rich-editor/dist/rich-editor.umd.js"></script>
+<script src="https://unpkg.com/@acaronlex/rich-editor/dist/rich-editor.umd.js"></script>
 ```
 
 ## Usage

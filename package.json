@@ -1,5 +1,5 @@
 {
-  "name": "rich-editor",
+  "name": "@acaronlex/rich-editor",
   "version": "1.0.0",
   "description": "A lightweight WYSIWYG rich text editor",
   "main": "dist/rich-editor.umd.js",
